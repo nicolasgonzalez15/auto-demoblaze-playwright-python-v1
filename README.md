@@ -15,9 +15,6 @@ Pruebas automatizadas basadas en sitio web e-commerce - v1
   - Firefox:
     > python3 -m pytest --browser:firefox --headed --slowmo 1000
 
-## Detalles
-Creado por nicolas.gonzalez15@gmail.com
-
 ## Datos del creador
 Nombre: Nicolás González / Grupo X / mail: nicolas.gonzalez15@gmail.com
 
